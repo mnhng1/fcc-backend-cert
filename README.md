@@ -1,1 +1,3 @@
 # fcc-backend-cert
+
+My 5 Node.js, Express.js and MongoDB projects that I've built as part of my freeCodeCamp assignment. Building these projects allowed me to obtain new skills and familiarize myself more with the Server side (Backend) programming. I learned how to write back end apps with Node.js and npm (Node Package Manager). I also learned how to build and built web applications with the Express framework, along a microservice with MongoDB and the Mongoose library.
